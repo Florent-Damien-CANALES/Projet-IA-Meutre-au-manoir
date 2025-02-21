@@ -28,9 +28,7 @@ Backend : Python (Flask / FastAPI)
 
 📚 Documentation
 
-📄 Cahier des charges
 📖 Documentation technique
-🧠 Guide du Prompt Engineering
 
 👥 Équipe
 
