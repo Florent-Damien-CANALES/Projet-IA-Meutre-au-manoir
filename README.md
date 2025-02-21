@@ -9,22 +9,23 @@ Ce projet, réalisé dans le cadre de la spécialité Intelligence Artificielle 
 
 🚀 Fonctionnalités principales
 
-✅ PNJ interactifs basés sur un chatbot génératif 🤖
-✅ Dialogues dynamiques en fonction des questions du joueur 💬
-✅ Optimisation via Prompt Engineering pour adapter le ton et le style des réponses 🎭
-✅ Gestion d’un scénario non linéaire en fonction des indices découverts 🔎
+✅ PNJ interactifs basés sur un chatbot génératif 🤖  
+✅ Dialogues dynamiques en fonction des questions du joueur 💬  
+✅ Optimisation via Prompt Engineering pour adapter le ton et le style des réponses 🎭  
+✅ Gestion d’un scénario non linéaire en fonction des indices découverts 🔎  
 
-🛠️ Technologies utilisées
-Modèle IA : GEMMA II 9B
-Optimisation : Prompt Engineering, Fine-tuning (optionnel)
-Backend : Python (Flask / FastAPI)
+🛠️ Technologies utilisées  
+
+Modèle IA : GEMMA II 9B  
+Optimisation : Prompt Engineering, Fine-tuning (optionnel)  
+Backend : Python (Flask / FastAPI)  
 
 🎮 Gameplay & Fonctionnement
 
-📜 Le joueur incarne un détective cherchant à résoudre un crime.
-🗣️ Il interroge des PNJ, qui sont des chatbots répondant via des prompts spécialisés.
-🔍 Les indices et interactions influencent la progression et permettent d’éliminer des suspects.
-🏁 Objectif final : Trouver l’assassin grâce aux indices et dialogues.
+📜 Le joueur incarne un détective cherchant à résoudre un crime.  
+🗣️ Il interroge des PNJ, qui sont des chatbots répondant via des prompts spécialisés.  
+🔍 Les indices et interactions influencent la progression et permettent d’éliminer des suspects.  
+🏁 Objectif final : Trouver l’assassin grâce aux indices et dialogues.  
 
 📚 Documentation
 
